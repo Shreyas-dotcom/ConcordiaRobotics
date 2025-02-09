@@ -1,8 +1,15 @@
-# VEX Robotics TOP GEAR Competition Robot [![CI](https://github.com/bitcraze/bitcraze-website/workflows/CI/badge.svg)](https://github.com/PhoenixSquadron/AutonDrive/actions)
+# VEX Robotics Tri-RICO Competition Robot [![CI](https://github.com/bitcraze/bitcraze-website/workflows/CI/badge.svg)](https://github.com/PhoenixSquadron/AutonDrive/actions)
 
 This is a code repository for Concordia International School Shanghai's VEX Robotics Team and has all the source code and general support code for Team 13212's Robot. This repository has general templates for the full club and hosts the robot-specific code for the 13212E Team. 
 
 In February of 2025, Team 13212E transitioned to a new Robot, retiring Psalms 59:1 and bringing in Tri-RICO. On the hardware side, a complete overhaul has been completed, and on the software front, the team has switched from the traditional Python implementation to a new C++ based ROS controller. Development and code have also switched away from the V5 app to VCS. All new C++ editions are in the 2025 folder.  
+
+Previous Robot Generations: 
+- 13212A
+- Top Gear
+- 13212E
+- Psalms 59:1
+- Tri-RICO ( Current Robot)
 
 ## Wiring Overview
 
