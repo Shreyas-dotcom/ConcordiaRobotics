@@ -1,0 +1,39 @@
+58.479, -40.609, 94.997
+58.564, -38.611, 94.997
+58.614, -36.612, 93.653
+58.601, -34.612, 93.653
+58.488, -32.615, 91.931
+58.29, -30.626, 89.251
+57.984, -28.651, 86.36
+57.54, -26.702, 83.369
+56.925, -24.801, 80.267
+56.107, -22.979, 77.042
+55.059, -21.279, 74.149
+53.766, -19.758, 71.983
+52.21, -18.507, 73.093
+50.475, -17.518, 75.75
+48.6, -16.83, 72.322
+46.656, -16.364, 68.724
+44.676, -16.089, 64.924
+42.682, -15.936, 60.887
+40.684, -15.856, 56.561
+38.685, -15.787, 51.877
+36.689, -15.661, 46.726
+34.712, -15.37, 40.935
+32.828, -14.718, 34.196
+31.293, -13.469, 27.455
+30.439, -11.682, 54.053
+30.202, -9.704, 49.541
+30.33, -7.711, 44.124
+30.671, -5.741, 37.937
+31.155, -3.801, 30.518
+31.736, -1.888, 20.578
+32.26, -0.305, 0
+32.26, -0.305, 0
+38.553, 18.679, 0
+endData
+127
+100
+200
+58.479, -40.609, 61.407, 4.297, 20.685, -33.078, 32.26, -0.305
+#PATH.JERRYIO-DATA {"appVersion":"0.8.3","format":"LemLib v0.5","gc":{"robotWidth":30.48,"robotHeight":30.48,"robotIsHolonomic":false,"showRobot":true,"uol":1,"pointDensity":5.08,"controlMagnetDistance":5,"fieldImage":{"displayName":"V5RC 2025 - High Stakes","signature":"V5RC 2025 - High Stakes","origin":{"__type":"built-in"}},"coordinateSystem":"VEX Gaming Positioning System"},"paths":[{"segments":[{"controls":[{"uid":"keMvPxA7CE","x":148.53565790807875,"y":-103.14644568784571,"lock":false,"visible":true,"heading":0,"__type":"end-point"},{"uid":"Whhht8WR0g","x":155.97435128868855,"y":10.913519481504018,"lock":false,"visible":true,"__type":"control"},{"uid":"PTyvyd8tQs","x":52.541090948781324,"y":-84.01837699484916,"lock":false,"visible":true,"__type":"control"},{"uid":"wyWWC55DkI","x":81.94164097690565,"y":-0.775855830882746,"lock":false,"visible":true,"heading":0,"__type":"end-point"}],"speedProfiles":[],"lookaheadKeyframes":[],"uid":"hruLLefqgZ"}],"pc":{"speedLimit":{"minLimit":{"value":0,"label":"0"},"maxLimit":{"value":127,"label":"127"},"step":1,"from":20,"to":100},"bentRateApplicableRange":{"minLimit":{"value":0,"label":"0"},"maxLimit":{"value":1,"label":"1"},"step":0.001,"from":0,"to":0.1},"maxDecelerationRate":127},"name":"Path","uid":"hUmVxFRM5n","lock":false,"visible":true}]}
